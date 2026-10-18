@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+zhipuai>=2.0.0
+sniffio
+python-dotenv
+requests
+openpyxl
+rapidfuzz
+python-docx
